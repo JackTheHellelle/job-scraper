@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Job Scraper</title>
+
+  <!-- Pico CSS -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+  />
+</head>
+<body>
+  <main class="container">
+    
+<h2>Results for "java"</h2>
+
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Company</th>
+      <th>Location</th>
+      <th>Reward</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/senior-web-engineer-tandem/" target="_blank">
+          Senior Web Engineer
+        </a>
+      </td>
+      <td>Tandem</td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/android-developer-binance/146159" target="_blank">
+          Android Developer
+        </a>
+      </td>
+      <td>Binance</td>
+      <td>Taipei, Taiwan</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-software-engineer-ai-agent-binance/146158" target="_blank">
+          Senior Software Engineer AI Agent
+        </a>
+      </td>
+      <td>Binance</td>
+      <td>Asia</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-blockchain-engineer-globalsettlementnetwork/146148" target="_blank">
+          Senior Blockchain Engineer
+        </a>
+      </td>
+      <td>Global Settlement Network</td>
+      <td>Miami, FL, United States</td>
+      <td>$133k - $135k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/member-of-asset-management-business-analyst-anchorage/146131" target="_blank">
+          Member of Asset Management Business Analyst
+        </a>
+      </td>
+      <td>Anchorage Digital</td>
+      <td>United States</td>
+      <td>$92k - $120k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-software-engineer-prime-alpaca/146100" target="_blank">
+          Senior Software Engineer Prime
+        </a>
+      </td>
+      <td>Alpaca</td>
+      <td>Remote</td>
+      <td>$88k - $150k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/engineering-manager-retail-acquisition-bitso/146029" target="_blank">
+          Engineering Manager Retail Acquisition
+        </a>
+      </td>
+      <td>Bitso</td>
+      <td>Latin America</td>
+      <td>$81k - $95k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-technical-business-analyst-bcbgroup/141294" target="_blank">
+          Senior Technical Business Analyst
+        </a>
+      </td>
+      <td>Bcbgroup</td>
+      <td>Remote</td>
+      <td>$95k - $105k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/staff-site-reliability-engineer-zscaler/106117" target="_blank">
+          Staff Site Reliability Engineer
+        </a>
+      </td>
+      <td>Zscaler</td>
+      <td>Remote</td>
+      <td>$115k - $165k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-staff-software-development-engineer-zscaler/106338" target="_blank">
+          Senior Staff Software Development Engineer
+        </a>
+      </td>
+      <td>Zscaler</td>
+      <td>Remote</td>
+      <td>$126k - $131k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/software-engineer-iii-java-zinnia/143946" target="_blank">
+          Software Engineer III Java
+        </a>
+      </td>
+      <td>Zinnia</td>
+      <td>Remote</td>
+      <td>$77k - $100k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/software-engineer-iii-associate-tech-lead-zinnia/94300" target="_blank">
+          Software Engineer III Associate Tech Lead
+        </a>
+      </td>
+      <td>Zinnia</td>
+      <td>Remote</td>
+      <td>$87k - $102k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-software-engineer-i-zinnia/142782" target="_blank">
+          Senior Software Engineer I
+        </a>
+      </td>
+      <td>Zinnia</td>
+      <td>Remote</td>
+      <td>$135k - $155k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/quality-assurance-peoplesoft-zinnia/145999" target="_blank">
+          Quality Assurance Peoplesoft
+        </a>
+      </td>
+      <td>Zinnia</td>
+      <td>Remote</td>
+      <td>$122k - $127k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/quality-assurance-peoplesoft-zinnia/145998" target="_blank">
+          Quality Assurance Peoplesoft
+        </a>
+      </td>
+      <td>Zinnia</td>
+      <td>Remote</td>
+      <td>$122k - $127k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/crypto-production-engineer-wormholefoundation/142370" target="_blank">
+          Crypto Production Engineer
+        </a>
+      </td>
+      <td>Wormholefoundation</td>
+      <td>Remote</td>
+      <td>$80k - $156k</td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
+<a href="../index.html">← Back</a>
+
+  </main>
+</body>
+</html>

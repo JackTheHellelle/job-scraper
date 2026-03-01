@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Job Scraper</title>
+
+  <!-- Pico CSS -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+  />
+</head>
+<body>
+  <main class="container">
+    
+<h2>Results for "react"</h2>
+
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Company</th>
+      <th>Location</th>
+      <th>Reward</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/lead-fullstack-engineer-react-next-js-phont/" target="_blank">
+          Lead Fullstack Engineer (React/Next.js)
+        </a>
+      </td>
+      <td>PHONT</td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146195" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Amsterdam, Netherlands</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146194" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>London, United Kingdom</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146192" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Dubai, United Arab Emirates</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146191" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Rome, Italy</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146188" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Sao Paulo, Brazil</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146186" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Cairo, Egypt</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146185" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Lisboa, Portugal</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146180" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Bucharest, Romania</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146177" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Madrid, Spain</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-software-engineer-ai-agent-binance/146158" target="_blank">
+          Senior Software Engineer AI Agent
+        </a>
+      </td>
+      <td>Binance</td>
+      <td>Asia</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-frontend-engineer-unlimit-pro/146153" target="_blank">
+          Senior Frontend Engineer
+        </a>
+      </td>
+      <td>Unlimit Pro</td>
+      <td>Remote</td>
+      <td>$48k - $60k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/growth-engineer-data-systems-bitmex/146102" target="_blank">
+          Growth Engineer Data Systems
+        </a>
+      </td>
+      <td>Bitmex</td>
+      <td>Remote</td>
+      <td>$112k - $115k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/engineering-manager-retail-acquisition-bitso/146029" target="_blank">
+          Engineering Manager Retail Acquisition
+        </a>
+      </td>
+      <td>Bitso</td>
+      <td>Latin America</td>
+      <td>$81k - $95k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/sr-staff-software-development-engineer-zscaler/101646" target="_blank">
+          Sr. Staff Software Development Engineer
+        </a>
+      </td>
+      <td>Zscaler</td>
+      <td>Remote</td>
+      <td>$147k - $210k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/sr-software-engineer-i-tech-lead-zinnia/93838" target="_blank">
+          Sr. Software Engineer I Tech Lead
+        </a>
+      </td>
+      <td>Zinnia</td>
+      <td>Remote</td>
+      <td>$98k - $110k</td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
+<a href="../index.html">← Back</a>
+
+  </main>
+</body>
+</html>
