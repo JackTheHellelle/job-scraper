@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Job Scraper</title>
+
+  <!-- Pico CSS -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+  />
+</head>
+<body>
+  <main class="container">
+    
+<h2>Results for "javascript"</h2>
+
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Company</th>
+      <th>Location</th>
+      <th>Reward</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/" target="_blank">
+          Senior Fullstack Developer (Typescript / Javascript / Node.js)
+        </a>
+      </td>
+      <td></td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/" target="_blank">
+          Senior Go Backend Developer
+        </a>
+      </td>
+      <td></td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/e-commerce-tech-specialist-m-w-d-wein-vinos-gmbh/" target="_blank">
+          E-Commerce Tech Specialist (m/w/d)
+        </a>
+      </td>
+      <td>VINOS</td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146195" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Amsterdam, Netherlands</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146194" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>London, United Kingdom</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146192" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Dubai, United Arab Emirates</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146191" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Rome, Italy</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-ai-100-remote-tether/146190" target="_blank">
+          Developer Relations AI 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Rome, Italy</td>
+      <td>$115k - $117k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-ai-100-remote-tether/146189" target="_blank">
+          Developer Relations AI 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Bucharest, Romania</td>
+      <td>$115k - $117k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146188" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Sao Paulo, Brazil</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-ai-100-remote-tether/146187" target="_blank">
+          Developer Relations AI 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Lisboa, Portugal</td>
+      <td>$115k - $117k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146186" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Cairo, Egypt</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146185" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Lisboa, Portugal</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-ai-100-remote-tether/146184" target="_blank">
+          Developer Relations AI 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Rio De Janeiro, Brazil</td>
+      <td>$115k - $117k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-ai-100-remote-tether/146183" target="_blank">
+          Developer Relations AI 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Islamabad, Pakistan</td>
+      <td>$115k - $117k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-ai-100-remote-tether/146182" target="_blank">
+          Developer Relations AI 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Dublin, Ireland</td>
+      <td>$115k - $117k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-ai-100-remote-tether/146181" target="_blank">
+          Developer Relations AI 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Dubai, United Arab Emirates</td>
+      <td>$115k - $117k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/developer-relations-p2p-100-remote-tether/146180" target="_blank">
+          Developer Relations P2P 100% remote
+        </a>
+      </td>
+      <td>Tether</td>
+      <td>Bucharest, Romania</td>
+      <td>$126k - $138k</td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
+<a href="../index.html">← Back</a>
+
+  </main>
+</body>
+</html>

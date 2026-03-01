@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Job Scraper</h1>
+
+{% if error %}
+  <article aria-live="polite">{{ error }}</article>
+{% endif %}
+
+<form action="{{ url_for('go') }}" method="post">
+  <input
+    type="text"
+    name="term"
+    placeholder="python, javascript, next.js..."
+    required
+  />
+  <button type="submit">Search</button>
+</form>
+{% endblock %}

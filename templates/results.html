@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Results for "{{ term }}"</h2>
+
+{% if error %}
+  <article>
+    <strong>{{ error }}</strong>
+  </article>
+{% endif %}
+
+{% if results %}
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Company</th>
+      <th>Location</th>
+      <th>Reward</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for job in results %}
+    <tr>
+      <td>
+        <a href="{{ job.url }}" target="_blank">
+          {{ job.title }}
+        </a>
+      </td>
+      <td>{{ job.company }}</td>
+      <td>{{ job.location }}</td>
+      <td>{{ job.reward }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p>No results found.</p>
+{% endif %}
+
+<a href="{{ url_for('home') }}">← Back</a>
+{% endblock %}

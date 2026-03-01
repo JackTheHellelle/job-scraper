@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Job Scraper</title>
+
+  <!-- Pico CSS -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+  />
+</head>
+<body>
+  <main class="container">
+    
+<h2>Results for "flutter"</h2>
+
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Company</th>
+      <th>Location</th>
+      <th>Reward</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/senior-full-stack-developer-data-scientist-remote-friendly-aidar/" target="_blank">
+          Senior Full-Stack Developer / Data Scientist (remote-friendly)
+        </a>
+      </td>
+      <td>AIDAR</td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-mobile-engineer-ios-android-flutter-binance/143584" target="_blank">
+          Senior Mobile Engineer iOS Android Flutter
+        </a>
+      </td>
+      <td>Binance</td>
+      <td>Hong Kong, Hong Kong</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/flutter-developer-crypto-wallet-web3-gomining/108433" target="_blank">
+          Flutterdeveloper Crypto Wallet Web3
+        </a>
+      </td>
+      <td>GoMining</td>
+      <td>Remote</td>
+      <td>$72k - $96k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-flutter-mobile-engineer-busha/106119" target="_blank">
+          Senior Flutter Mobile Engineer
+        </a>
+      </td>
+      <td>Busha</td>
+      <td>Lagos, Nigeria</td>
+      <td>$125k - $145k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-flutter-engineer-windrangerlabs/105600" target="_blank">
+          Senior Flutter Engineer
+        </a>
+      </td>
+      <td>Windranger Labs</td>
+      <td>Singapore, Singapore</td>
+      <td>$129k - $149k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/qa-engineer-mobile-web-flutter-emperia/103651" target="_blank">
+          QA Engineer Mobile + Web Flutter
+        </a>
+      </td>
+      <td>Emperia</td>
+      <td>United Kingdom</td>
+      <td>$64k - $69k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/flutter-developer-unlimit/102385" target="_blank">
+          Flutter Developer
+        </a>
+      </td>
+      <td>Unlimit</td>
+      <td>Belgrade, Serbia</td>
+      <td>$80k - $115k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/flutter-mobile-engineer-woo/95670" target="_blank">
+          Flutter Mobile Engineer
+        </a>
+      </td>
+      <td>Woo</td>
+      <td>Remote</td>
+      <td>$94k - $120k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-app-developer-flutter-gate-io/98400" target="_blank">
+          Senior APP Developer Flutter
+        </a>
+      </td>
+      <td>Gate.io</td>
+      <td>Remote</td>
+      <td>$36k - $63k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/experienced-flutter-engineer-bitso/92783" target="_blank">
+          Experienced Flutter Engineer
+        </a>
+      </td>
+      <td>Bitso</td>
+      <td>Latin America</td>
+      <td>$105k - $106k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/app-developer-flutter-gate-io/85264" target="_blank">
+          APP Developer（Flutter）
+        </a>
+      </td>
+      <td>Gate.io</td>
+      <td>Remote</td>
+      <td>$45k - $60k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/flutter-developer-dubai-base-crypto-exchange-chinese-speaking-nahc/80672" target="_blank">
+          Flutter Developer Dubai Base Crypto Exchange Chinese Speaking
+        </a>
+      </td>
+      <td>nahc.io</td>
+      <td>Taipei, Taiwan</td>
+      <td>$76k - $114k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/flutter-developer-dubai-base-crypto-exchange-nahc/79671" target="_blank">
+          Flutter Developer Dubai Base Crypto Exchange
+        </a>
+      </td>
+      <td>nahc.io</td>
+      <td>Dubai, United Arab Emirates</td>
+      <td>$75k - $115k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/flutter-developer-gate-io/68858" target="_blank">
+          Flutter Developer
+        </a>
+      </td>
+      <td>Gate.io</td>
+      <td>APAC</td>
+      <td>$81k - $115k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/flutter-mobile-engineer-woo/66026" target="_blank">
+          Flutter Mobile Engineer
+        </a>
+      </td>
+      <td>WOO</td>
+      <td>Taipei, Taiwan</td>
+      <td>$94k - $96k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-flutter-developer-with-blockchain-experience-espressocash/64523" target="_blank">
+          Senior Flutter Developer with Blockchain Experience
+        </a>
+      </td>
+      <td>Espresso Cash</td>
+      <td>Remote</td>
+      <td>$91k - $120k</td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
+<a href="../index.html">← Back</a>
+
+  </main>
+</body>
+</html>

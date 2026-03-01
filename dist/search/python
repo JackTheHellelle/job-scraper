@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Job Scraper</title>
+
+  <!-- Pico CSS -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+  />
+</head>
+<body>
+  <main class="container">
+    
+<h2>Results for "python"</h2>
+
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Company</th>
+      <th>Location</th>
+      <th>Reward</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/" target="_blank">
+          Senior Fullstack Developer (Typescript / Javascript / Node.js)
+        </a>
+      </td>
+      <td></td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq/" target="_blank">
+          Senior Data Scientist
+        </a>
+      </td>
+      <td></td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/" target="_blank">
+          Senior Go Backend Developer
+        </a>
+      </td>
+      <td></td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/senior-full-stack-developer-data-scientist-remote-friendly-aidar/" target="_blank">
+          Senior Full-Stack Developer / Data Scientist (remote-friendly)
+        </a>
+      </td>
+      <td>AIDAR</td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/it-developer-greenautarky-gmbh/" target="_blank">
+          IT Developer
+        </a>
+      </td>
+      <td>GreenAutarky</td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/backend-engineer-equimatch-gmbh/" target="_blank">
+          Backend Engineer
+        </a>
+      </td>
+      <td>EquiMatch</td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/senior-software-engineer-secure-ai-infrastructure-edgeless-systems/" target="_blank">
+          Senior Software Engineer – Secure AI Infrastructure
+        </a>
+      </td>
+      <td>Edgeless Systems</td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/senior-product-engineer-gaia-law/" target="_blank">
+          Senior Product Engineer
+        </a>
+      </td>
+      <td>GAIA</td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/lead-engineer-ai-logistics-nexdash/" target="_blank">
+          Lead Engineer – AI &amp; Logistics
+        </a>
+      </td>
+      <td>NexDash</td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://berlinstartupjobs.com/engineering/backend-ai-engineer-ui-ux-engineer-deep-film-inc/" target="_blank">
+          Backend/AI Engineer &amp; UI/UX Engineer
+        </a>
+      </td>
+      <td>Deep Film Inc.</td>
+      <td>Berlin/Europe (varies)</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-frontend-engineer-unlimit-pro/146153" target="_blank">
+          Senior Frontend Engineer
+        </a>
+      </td>
+      <td>Unlimit Pro</td>
+      <td>Remote</td>
+      <td>$48k - $60k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/jr-mid-python-developer-accounting-team-b2c2/138510" target="_blank">
+          JrMid Python Developer Accounting Team
+        </a>
+      </td>
+      <td>B2c2</td>
+      <td>Remote</td>
+      <td>$87k - $109k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/it-junior-python-developer-london-b2c2/144971" target="_blank">
+          IT Junior Python Developer London
+        </a>
+      </td>
+      <td>B2c2</td>
+      <td>Remote</td>
+      <td>$84k - $108k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/lead-python-developer-defi-infrastructure-connecthum/145672" target="_blank">
+          Lead Python Developer DeFi Infrastructure
+        </a>
+      </td>
+      <td>ConnectHum</td>
+      <td>Remote</td>
+      <td>$64k - $120k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/security-engineer-python-binance/144925" target="_blank">
+          Security Engineer Python
+        </a>
+      </td>
+      <td>Binance</td>
+      <td>Sofia, Bulgaria</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/senior-software-engineer-trading-infrastructure-team-gravity-team/144924" target="_blank">
+          Senior Software Engineer Trading Infrastructure Team
+        </a>
+      </td>
+      <td>Gravity Team</td>
+      <td>Remote</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/principal-software-engineer-backend-python-golang-zscaler/143950" target="_blank">
+          Principal Software Engineer Backend Python Golang
+        </a>
+      </td>
+      <td>Zscaler</td>
+      <td>Remote</td>
+      <td>$182k - $260k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/software-engineer-python-institutional-blockchain/143870" target="_blank">
+          Software Engineer Python Institutional
+        </a>
+      </td>
+      <td>Blockchain</td>
+      <td>Remote</td>
+      <td>$81k - $84k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/zigchain-blockchain-engineer-zigchain/139083" target="_blank">
+          ZIGChain Blockchain Engineer
+        </a>
+      </td>
+      <td>ZIGChain</td>
+      <td>Remote</td>
+      <td>$120k - $150k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/backend-engineer-python-node-js-crypto-com/143612" target="_blank">
+          Backend Engineer Python Node.js
+        </a>
+      </td>
+      <td>Crypto.com</td>
+      <td>Hong Kong, Hong Kong</td>
+      <td>$90k - $150k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/back-end-engineer-python-bluecubeservices/142937" target="_blank">
+          BackEnd Engineer Python
+        </a>
+      </td>
+      <td>Bluecubeservices</td>
+      <td>Remote</td>
+      <td>$122k - $150k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/quantitative-developer-c-java-go-python-coins/142903" target="_blank">
+          Quantitative Developer C++ Java Go Python
+        </a>
+      </td>
+      <td>Coins.ph</td>
+      <td>Shanghai, China</td>
+      <td>$81k - $84k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/smart-contract-engineer-cow-dao/142606" target="_blank">
+          Smart Contract Engineer
+        </a>
+      </td>
+      <td>CoW DAO</td>
+      <td>Remote</td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/data-engineer-python-bitpanda/141465" target="_blank">
+          Data Engineer Python
+        </a>
+      </td>
+      <td>Bitpanda</td>
+      <td>Remote</td>
+      <td>$105k - $150k</td>
+    </tr>
+    
+    <tr>
+      <td>
+        <a href="https://web3.career/binance-accelerator-program-infrastructure-security-python-llm-binance/141232" target="_blank">
+          Binance Accelerator Program Infrastructure Security Python LLM
+        </a>
+      </td>
+      <td>Binance</td>
+      <td>Taipei, Taiwan</td>
+      <td></td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
+<a href="../index.html">← Back</a>
+
+  </main>
+</body>
+</html>
