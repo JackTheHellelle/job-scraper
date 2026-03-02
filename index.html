@@ -18,15 +18,44 @@
 
 
 
-<form action="go" method="post">
+<form id="searchForm">
   <input
+    id="termInput"
     type="text"
     name="term"
-    placeholder="python, javascript, next.js..."
+    placeholder="python, javascript, java..."
     required
   />
   <button type="submit">Search</button>
+  <small id="msg" style="display:block; margin-top:8px;"></small>
 </form>
+
+<script>
+  const form = document.getElementById("searchForm");
+  const input = document.getElementById("termInput");
+  const msg = document.getElementById("msg");
+
+  function isAscii(str) {
+    return /^[\x00-\x7F]+$/.test(str);
+  }
+
+  form.addEventListener("submit", (e) => {
+    e.preventDefault();
+    const term = (input.value || "").trim();
+
+    if (!term) return;
+
+    if (!isAscii(term)) {
+      msg.textContent = "영문 키워드로 검색해주세요.";
+      return;
+    }
+
+    const encoded = encodeURIComponent(term);
+
+    // 정적 파일 구조에 맞게 경로 수정 (.html 추가)
+    window.location.href = `./search/${encoded}.html`;
+  });
+</script>
 
   </main>
 </body>
